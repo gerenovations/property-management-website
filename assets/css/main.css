@@ -1162,6 +1162,7 @@ input, select, textarea {
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
+			opacity: 0.5;
 			z-index: 1;
 		}
 
